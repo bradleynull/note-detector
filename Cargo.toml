@@ -1,0 +1,11 @@
+[package]
+name = "note_detector"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cpal = "0.15.3"
+rustfft = "6.2.0"
+strum = "0.26.3"
+strum_macros = "0.26.4"
+ctrlc = "3.2"
